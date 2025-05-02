@@ -69,6 +69,6 @@ This method maybe breaks in the future will update if that happens
 This the pc version of the mod by Aikoyori
 - [https://github.com/Aikoyori/Vocalatro)  
 If you look on the release section of this page you will see a zip file extract the folder in your `rePatch` Folder you will see the folder have the same name and that is correct
-If you boot up your gamne Go to options and go to Custmize deck you should see new images on the cards that it you done look at the mod that you just installed to get a idea how to nake your own Happy gamebling 
+If you boot up your gamne Go to options and go to Custmize deck you should see new images on the cards that it you done look at the mod that you just installed to get a idea how to nake your own Happy gambling
 
 ![image](https://github.com/user-attachments/assets/bd16adb2-fdec-4f08-bf8b-e0ec38a56c2e)
