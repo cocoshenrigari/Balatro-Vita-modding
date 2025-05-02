@@ -1,7 +1,7 @@
 # Balatro-Vita Modding Guide
 
 A guide to simple modding for the game **Balatro** on the **PSVita**.
-
+If you are not the most recent version on your Vita update as well it solves the crashing problem
 ---
 
 ## Requirements
