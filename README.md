@@ -18,6 +18,8 @@ A guide to simple modding for the game **Balatro** on the **PSVita**.
 If you don't have the game installed, do that first.  
 Installation instructions are available on the [GitHub page for the port](https://github.com/Daexxxx/Balatro-Vita).
 
+---
+
 ### **Step 2:**  
 Take the `game.love` file and rename it to `game.love.zip`.
 
